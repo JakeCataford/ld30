@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rm game.js
+cat src/*.js >> game.js
